@@ -1,5 +1,6 @@
 <?php
 
   echo "new php file";
-echo "bob";
+  echo "bob";
+  echo "Daniel N.Malangu 13315120";
 ?>
