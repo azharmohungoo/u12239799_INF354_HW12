@@ -1,6 +1,5 @@
 <?php
-
-  echo "new php file";
-  echo "Fatima Ellemdeen\n13077130";
-  echo "Daniel Malangu 13315120";
+  echo "Azhar Mohungoo  12239799\r\n";
+  echo "Fatima Ellemdeen  13077130\r\n";
+  echo "Daniel Malangu  13315120\r\n";
 ?>
